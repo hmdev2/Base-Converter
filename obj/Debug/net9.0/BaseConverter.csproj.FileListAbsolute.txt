@@ -1,0 +1,14 @@
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\bin\Debug\net9.0\BaseConverter.exe
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\bin\Debug\net9.0\BaseConverter.deps.json
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\bin\Debug\net9.0\BaseConverter.runtimeconfig.json
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\bin\Debug\net9.0\BaseConverter.dll
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\bin\Debug\net9.0\BaseConverter.pdb
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.AssemblyInfo.cs
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.dll
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\refint\BaseConverter.dll
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.pdb
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\BaseConverter.genruntimeconfig.cache
+C:\Users\pedro\Desktop\BaseConverter\BaseConverter\obj\Debug\net9.0\ref\BaseConverter.dll
